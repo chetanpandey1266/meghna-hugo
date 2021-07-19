@@ -1,7 +1,7 @@
 ---
 team:
   enable: true
-  title: Our Team
+  title: Teaching Staff
   team_member:
   - name: Abul Mal Muhit
     image_webp: images/team/team-1.webp

@@ -1,12 +1,12 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: images/backgrounds/banner.webp
+  bg_image: images/backgrounds/banner.jpg
   icon: ''
-  title: Experience the new reality
-  content: ''
+  title: Machine Learning-I
+  content: 'Understanding the foundations of pattern recognition and machine learning'
   button:
     enable: true
     label: Explore course
-    link: "#blog"
+    link: "#about"
