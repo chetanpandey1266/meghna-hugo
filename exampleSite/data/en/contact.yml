@@ -11,10 +11,8 @@ contact:
     info: TexminHUB, IITISM Dhanbad
   - icon: ti-mobile
     info: 'Phone: +880-31-000-000'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: deepak.gupta@iitism.ac.in'
   contact_form:
     enable: true
     form_action: "#"
