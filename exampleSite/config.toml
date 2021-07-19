@@ -19,13 +19,13 @@ url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
+name = "material"
+url = "#blog"
 weight = 4
 
 [[Languages.en.menu.main]]
-name = "material"
-url = "#blog"
+name = "team"
+url = "#team"
 weight = 6
 [[Languages.en.menu.main]]
 name = "contact"
