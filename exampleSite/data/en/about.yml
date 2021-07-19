@@ -3,14 +3,16 @@ about:
   enable : true
   title : About The Course
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : MAGIC to MATHS
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Fundamentals and Principles of ML
+    content : Course will have strong focus on fundamentals and principles of ML
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Guest Lectures and Projects
+    content : Guest Lectures and Projects to give real world experience to students 
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Video Tutorials
+    content : Recordings and slides of each lecture will be provided, as revision aids for students.
+
+  
