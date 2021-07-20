@@ -20,6 +20,11 @@
         <!-- {{ if site.Params.post_share }}
         {{ partial "post-share.html" . }}
         {{ end }} -->
+        <div class="all-post text-center col-lg-12">
+          <a class="btn btn-main" target="_blank" href="{{ .Params.Video }}">{{ i18n "recording" }}</a>
+          <a class="btn btn-main" target="_blank" href="{{ .Params.Slide1 }}">{{ i18n "slide1" }}</a>
+          <a class="btn btn-main" target="_blank" href="{{ .Params.Slide2 }}">{{ i18n "slide2" }}</a>
+        </div>
         <!-- comments -->
         <div class="mt-5">
           {{ template "_internal/disqus.html" . }}
