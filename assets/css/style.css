@@ -224,6 +224,7 @@ a:hover {
   display: inline-block;
   font-size: 14px;
   letter-spacing: 1px;
+  margin: 4px 3px;
   padding: 10px 35px;
   text-transform: uppercase;
 }
