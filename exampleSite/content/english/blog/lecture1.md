@@ -4,7 +4,8 @@ date: 2018-09-12T14:51:12+06:00
 author: Deepak Gupta
 image_webp: images/blog/lecture1.webp
 image: images/blog/lecture1.jpg
-video: "https://youtu.be/tYqQGuTjW-U"
+video1: "https://youtu.be/tYqQGuTjW-U"
+video2: "https://youtu.be/O01oI1pgMQM"
 slide1: "https://drive.google.com/file/d/1widxqQ9qu0IHsMm_VUthcrudFg7uocgF/view?usp=sharing"
 slide2: "https://drive.google.com/file/d/1VMAxCD3eNQLSAo-rzmXQbmEMkS6srxOq/view?usp=sharing"
 description: "This is meta description"

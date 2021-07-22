@@ -5,9 +5,20 @@
     </div>
 
     <div class="content">
-      <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      <h3><a href="#">{{ .Title }}</a></h3>
       <p>{{ .Summary }}</p>
-      <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
+      {{if .Params.Video1 }}
+          <a class="btn btn-main" target="_blank" href="{{ .Params.Video1 }}">{{ i18n "video1" }}</a>
+      {{end}}
+      {{if .Params.Video2 }}
+          <a class="btn btn-main" target="_blank" href="{{ .Params.Video2 }}">{{ i18n "video2" }}</a>
+      {{end}}
+      {{if .Params.Slide1 }}
+          <a class="btn btn-main" target="_blank" href="{{ .Params.Slide1 }}">{{ i18n "slide1" }}</a>
+      {{end}}
+      {{if .Params.Slide2 }}
+          <a class="btn btn-main" target="_blank" href="{{ .Params.Slide2 }}">{{ i18n "slide2" }}</a>
+      {{end}}
     </div>
   </div>
 </article>
